@@ -1,3 +1,8 @@
+body {
+  margin: 8px;
+  padding: 0px;
+}
+
 .header-list{
 	list-style: none;  /*去掉列表前面的标记*/
 	width: 100%;
