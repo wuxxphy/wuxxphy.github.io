@@ -1,15 +1,3 @@
-*{
-	margin:0;
-	padding:0;
-
-}
-
-body{
-	width: 100%;
-	min-width: 1200px;
-	font-family: &#34;微软雅黑&#34;;
-}
-
 .header-list{
 	list-style: none;  /*去掉列表前面的标记*/
 	width: 100%;
